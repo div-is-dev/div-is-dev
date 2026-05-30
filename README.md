@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Divanshu Kumar 👋
 
-<!--
-**div-is-dev/div-is-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Secure Full-Stack & Mobile Engineer** specializing in building high-performance mobile applications and security-hardened backend systems. I combine strong Data Structures & Algorithms (DSA) problem-solving logic with enterprise-grade security compliance.
 
-Here are some ideas to get you started:
+### 🛡️ Core Specializations & Certifications
+- **Google Cybersecurity Professional Certificate** (Network Security, Risk Management, OWASP Top 10 compliance)
+- **Mobile Engineering**: React Native, Expo, TypeScript, Expo SecureStore
+- **Backend Infrastructure**: Node.js, Express.js, TypeScript, PostgreSQL, Redis, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Active Systems Under Development
+- 📱 **[TooSecure - Chat App]** - A real-time, end-to-end encrypted messaging application built with React Native, WebSockets, and an Express.js backend hardened against OWASP vulnerabilities.
+
+### 📊 My Technical Arsenal
+- **Languages**: TypeScript, JavaScript (ES6+), SQL, HTML/CSS
+- **Frameworks & Libraries**: React, React Native, Expo, Express.js, {WIP - Prisma ORM, NativeWind }
+- **Security Tools & Utilities**: Linux {WIP- Wireshark, Helmet.js, JWT/OAuth architecture, Hilt/Android Keystore}
+
+---
+*Driven by clean architecture, strict data validation, and sub-20ms API optimizations.*
