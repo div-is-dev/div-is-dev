@@ -3,9 +3,10 @@
 I am a **Secure Full-Stack & Mobile Engineer** specializing in building high-performance mobile applications and security-hardened backend systems. I combine strong Data Structures & Algorithms (DSA) problem-solving logic with enterprise-grade security compliance.
 
 ### 🛡️ Core Specializations & Certifications
-- **Google Cybersecurity Professional Certificate** (Network Security, Risk Management, OWASP Top 10 compliance)
+- **Frontend Infrastructure**: Javascript, ReactJs, Typescript, NextJs, NestJs, TanstackQuery, Redux, 
 - **Mobile Engineering**: React Native, Expo, TypeScript, Expo SecureStore
 - **Backend Infrastructure**: Node.js, Express.js, TypeScript, PostgreSQL, Redis, RESTful APIs
+- **Google Cybersecurity Professional Certificate** (Network Security, Risk Management, OWASP Top 10 compliance)
 
 ### 🚀 Active Systems Under Development
 - 📱 **[TooSecure - Chat App]** - A real-time, end-to-end encrypted messaging application built with React Native, WebSockets, and an Express.js backend hardened against OWASP vulnerabilities.
